@@ -22,9 +22,8 @@ title: eaglev's homepage
 email: fake-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Want to know more about eaglev ? Here you go !
-domain: test-domain.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://test-domain.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+url: ""  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: eaglev_sci
 github_username:  eaglev-sci
 
