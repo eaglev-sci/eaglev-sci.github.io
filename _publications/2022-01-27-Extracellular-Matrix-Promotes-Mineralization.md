@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-27-Extracellular-Matrix-Promotes-Mineralization
 excerpt: ''
 date: 2022-01-27
-venue: 'Journal 1'
+venue: 'Frontiers in Bioengineering and Biotechnology'
 paperurl: 'https://doi.org/10.3389/fbioe.2021.740712'
 citation: 'Nowwarote, N. et al. Extracellular Matrix Derived From Dental Pulp Stem Cells Promotes Mineralization. Frontiers in Bioengineering and Biotechnology 9, (2022), https://doi.org/10.3389/fbioe.2021.740712.'
 ---
