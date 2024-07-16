@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Victor Laigle"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "" # "Short biography for the left-hand sidebar"
   location         : # "Earth"
   employer         : "Mines Paris - PSL"
   uri              : # URL
