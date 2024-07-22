@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Victor Laigle"
-description              : &description "PhD student at Mines Paris - PSL"
+description              : &description "Personal website"
 url                      : https://eaglev-sci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eaglev-sci/eaglev-sci.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Victor Laigle"
   pronouns         : # example: "she/her"  
-  bio              : "" # "Short biography for the left-hand sidebar"
+  bio              : "1st year PhD student at Mines Paris - PSL, working with Deep Learning for protein structures and Systems Biology approaches for Cystic Fibrosis." # "Short biography for the left-hand sidebar"
   location         : "Paris"
   employer         : "Mines Paris - PSL"
   uri              : # URL
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
